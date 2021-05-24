@@ -20,8 +20,7 @@
       <div class="mb-5">
         <h2 class="text-2xl text-gray-800">Currently Working On</h2>
         <ul class="ml-2">
-          <li><code>[*]</code> Switching bushlabs.com to use Nuxt</li>
-          <li><code>[*]</code> Switching bushlabs.com to use Tailwind CSS</li>
+          <li><code>[*]</code> Switch bushlabs.com to use Nuxt</li>
         </ul>
       </div>
 
@@ -30,12 +29,50 @@
         <ul class="ml-2">
           <li><code>[ ]</code> Add email to find me</li>
           <li><code>[ ]</code> Add items to "Stuff I Like" section</li>
+          <li><code>[ ]</code> Remove redundant code using components</li>
+          <li>
+            <code>[ ]</code> Change "Bush Labs" in nav bar to be an actual home
+            link
+          </li>
+          <li>
+            <code>[ ]</code> Fix image stretching on
+            <NuxtLink
+              to="/anime"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >anime</NuxtLink
+            >
+            page
+          </li>
+          <li>
+            <code>[ ]</code> Organize the
+            <NuxtLink
+              to="/anime"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >anime</NuxtLink
+            >
+            page better
+          </li>
+        </ul>
+      </div>
+
+      <div class="mb-5">
+        <h2 class="text-2xl text-gray-800">Finished</h2>
+        <ul class="ml-2">
+          <li><code>[X]</code> Add anime page</li>
+          <li><code>[X]</code> Switch bushlabs.com to use Tailwind CSS</li>
         </ul>
       </div>
 
       <div class="mb-5">
         <h2 class="text-2xl text-gray-800">Stuff I Like</h2>
         <ul class="ml-3">
+          <li>
+            <NuxtLink
+              to="/anime"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >Anime</NuxtLink
+            >
+          </li>
           <li>
             <a
               href="https://indieweb.org"
