@@ -20,7 +20,8 @@
       <div class="mb-5">
         <h2 class="text-2xl text-gray-800">Currently Working On</h2>
         <ul class="ml-2">
-          <li><code>[*]</code> Switch bushlabs.com to use Nuxt</li>
+          <li><code>[*]</code> Add items to "Stuff I Like" section</li>
+          <li><code>[*]</code> Add more gift ideas</li>
         </ul>
       </div>
 
@@ -28,7 +29,6 @@
         <h2 class="text-2xl text-gray-800">Todo</h2>
         <ul class="ml-2">
           <li><code>[ ]</code> Add email to find me</li>
-          <li><code>[ ]</code> Add items to "Stuff I Like" section</li>
           <li><code>[ ]</code> Remove redundant code using components</li>
           <li>
             <code>[ ]</code> Change "Bush Labs" in nav bar to be an actual home
@@ -60,6 +60,7 @@
         <ul class="ml-2">
           <li><code>[X]</code> Add anime page</li>
           <li><code>[X]</code> Switch bushlabs.com to use Tailwind CSS</li>
+          <li><code>[X]</code> Switch bushlabs.com to use Nuxt</li>
         </ul>
       </div>
 
@@ -72,6 +73,14 @@
               class="text-blue-600 hover:underline hover:text-blue-900"
               >Anime</NuxtLink
             >
+          </li>
+          <li>
+            <NuxtLink
+              to="/gifts"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >Gift Ideas</NuxtLink
+            >
+            (for my wife)
           </li>
           <li>
             <a

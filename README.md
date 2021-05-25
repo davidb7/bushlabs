@@ -1,5 +1,7 @@
 # bushlabs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60c51856-8de5-4f14-be2b-c22e66a71958/deploy-status)](https://app.netlify.com/sites/mystifying-poitras-90f04e/deploys)
+
 ## Build Setup
 
 ```bash
