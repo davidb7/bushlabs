@@ -19,7 +19,13 @@
       <div class="mb-5">
         <h2 class="text-2xl text-gray-800">Gift Ideas</h2>
         <ul class="ml-3">
-          <li>Bonsai tool roll (maybe a leather one from Etsy)</li>
+          <li>
+            <a
+              href="https://store.bonsaitonight.com/products/tool-pouch"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >Bonsai tool roll
+            </a>
+          </li>
           <li>
             Pre-Bonsai
             <ul class="ml-3">
