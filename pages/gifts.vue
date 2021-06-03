@@ -59,6 +59,14 @@
               >Turn Table</a
             >
           </li>
+          <li>
+            <a
+              href="https://stonelantern.com/products/ponderosa-pines-as-bonsai-haskill-creek"
+              class="text-blue-600 hover:underline hover:text-blue-900"
+              >Ponderosa Pines as Bonsai</a
+            >
+            (book)
+          </li>
         </ul>
       </div>
     </div>
